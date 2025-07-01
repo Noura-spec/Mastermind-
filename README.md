@@ -10,6 +10,11 @@ This project is a console-based implementation of the classic Mastermind game, b
 - Hints after each guess: Well-placed and misplaced digits
 
 ## ▶️ How to Run
+-Download and unzip folder 
+-copy one of the below commands in terminal
+-Play & Enjoy 
 
 ```bash
+dotnet run
+
 dotnet run -- -c "0123" -t 10
