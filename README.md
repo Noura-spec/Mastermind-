@@ -17,4 +17,5 @@ This project is a console-based implementation of the classic Mastermind game, b
 ```bash
 dotnet run
 
+```bash
 dotnet run -- -c "0123" -t 10
