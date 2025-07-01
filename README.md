@@ -15,9 +15,12 @@ This project is a console-based implementation of the classic Mastermind game, b
 - copy one of the below commands in terminal
 - Play & Enjoy
   
-```bash
+
 To start the game with a random secret code and default 10 attempts, run:
+```bash
 dotnet run
+```
 To start the game with a custom secret code (0123) and 10 attempts, run:
+```bash
 dotnet run -- -c "0123" -t 10
 
